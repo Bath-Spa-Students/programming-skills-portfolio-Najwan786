@@ -25,7 +25,7 @@ Twinkle, twinkle, little star,
 &nbsp;
 ## Exercise 2: Print the Version of Python :ballot_box_with_check:
 
- Write a Python program to get the Python version you are using.
+Write a Python program to get the Python version you are using.
 
 
 &nbsp;
